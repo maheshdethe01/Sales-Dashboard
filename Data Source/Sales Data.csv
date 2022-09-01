@@ -1,0 +1,1561 @@
+Date,Product,Category,Sales Rep,City,No.of Units,Price
+08-01-2021,Dell XPS 13,Laptop,Tara,Bangalore,3,2001
+08-01-2021,OnePlus Buds,Headphone,Bruce,Bangalore,31,75
+08-01-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+08-01-2021,HP Envy x360,Laptop,Tara,Bangalore,4,1080
+08-01-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+08-01-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,10,790
+08-01-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+08-01-2021,OnePlus Buds,Headphone,Krish,Mumbai,40,75
+08-01-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+08-01-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+08-01-2021,iPhone 11 Pro,Phone,Krish,Mumbai,3,1575
+08-01-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,10,790
+08-01-2021,Dell XPS 13,Laptop,Asif,Cochin,3,2001
+08-01-2021,OnePlus Buds,Headphone,Asif,Cochin,33,75
+08-01-2021,Apple AirPods Pro,Headphone,Asif,Cochin,11,315
+08-01-2021,HP Envy x360,Laptop,Asif,Cochin,2,1080
+08-01-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+08-01-2021,OnePlus 8 Pro,Phone,Giana,Cochin,5,790
+08-01-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+08-01-2021,OnePlus Buds,Headphone,Aryan,Delhi,41,75
+08-01-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,11,315
+08-01-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+08-01-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+08-01-2021,OnePlus 8 Pro,Phone,Leila,Delhi,8,790
+08-01-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+08-01-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,44,75
+08-01-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,13,315
+08-01-2021,HP Envy x360,Laptop,Amar,Hyderabad,4,1080
+08-01-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,5,1575
+08-01-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,8,790
+15-01-2021,Dell XPS 13,Laptop,Tara,Bangalore,6,2001
+15-01-2021,OnePlus Buds,Headphone,Bruce,Bangalore,40,75
+15-01-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+15-01-2021,HP Envy x360,Laptop,Tara,Bangalore,3,1080
+15-01-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+15-01-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,11,790
+15-01-2021,Dell XPS 13,Laptop,Kate,Mumbai,4,2001
+15-01-2021,OnePlus Buds,Headphone,Krish,Mumbai,60,75
+15-01-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+15-01-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+15-01-2021,iPhone 11 Pro,Phone,Krish,Mumbai,5,1575
+15-01-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,6,790
+15-01-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+15-01-2021,OnePlus Buds,Headphone,Asif,Cochin,33,75
+15-01-2021,Apple AirPods Pro,Headphone,Asif,Cochin,5,315
+15-01-2021,HP Envy x360,Laptop,Asif,Cochin,1,1080
+15-01-2021,iPhone 11 Pro,Phone,Giana,Cochin,5,1575
+15-01-2021,OnePlus 8 Pro,Phone,Giana,Cochin,3,790
+15-01-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+15-01-2021,OnePlus Buds,Headphone,Aryan,Delhi,45,75
+15-01-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,8,315
+15-01-2021,HP Envy x360,Laptop,Aryan,Delhi,3,1080
+15-01-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+15-01-2021,OnePlus 8 Pro,Phone,Leila,Delhi,5,790
+15-01-2021,Dell XPS 13,Laptop,Amar,Hyderabad,3,2001
+15-01-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,39,75
+15-01-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,7,315
+15-01-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+15-01-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,6,1575
+15-01-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,7,790
+22-01-2021,Dell XPS 13,Laptop,Tara,Bangalore,3,2001
+22-01-2021,OnePlus Buds,Headphone,Bruce,Bangalore,51,75
+22-01-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,5,315
+22-01-2021,HP Envy x360,Laptop,Tara,Bangalore,6,1080
+22-01-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+22-01-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,5,790
+22-01-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+22-01-2021,OnePlus Buds,Headphone,Krish,Mumbai,55,75
+22-01-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,10,315
+22-01-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+22-01-2021,iPhone 11 Pro,Phone,Krish,Mumbai,3,1575
+22-01-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,8,790
+22-01-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+22-01-2021,OnePlus Buds,Headphone,Asif,Cochin,31,75
+22-01-2021,Apple AirPods Pro,Headphone,Asif,Cochin,4,315
+22-01-2021,HP Envy x360,Laptop,Asif,Cochin,3,1080
+22-01-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+22-01-2021,OnePlus 8 Pro,Phone,Giana,Cochin,10,790
+22-01-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+22-01-2021,OnePlus Buds,Headphone,Aryan,Delhi,56,75
+22-01-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,15,315
+22-01-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+22-01-2021,iPhone 11 Pro,Phone,Leila,Delhi,5,1575
+22-01-2021,OnePlus 8 Pro,Phone,Leila,Delhi,7,790
+22-01-2021,Dell XPS 13,Laptop,Amar,Hyderabad,3,2001
+22-01-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,30,75
+22-01-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,10,315
+22-01-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+22-01-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,5,1575
+22-01-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,6,790
+29-01-2021,Dell XPS 13,Laptop,Tara,Bangalore,4,2001
+29-01-2021,OnePlus Buds,Headphone,Bruce,Bangalore,56,75
+29-01-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,13,315
+29-01-2021,HP Envy x360,Laptop,Tara,Bangalore,5,1080
+29-01-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+29-01-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,8,790
+29-01-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+29-01-2021,OnePlus Buds,Headphone,Krish,Mumbai,56,75
+29-01-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,8,315
+29-01-2021,HP Envy x360,Laptop,Kate,Mumbai,4,1080
+29-01-2021,iPhone 11 Pro,Phone,Krish,Mumbai,6,1575
+29-01-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,10,790
+29-01-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+29-01-2021,OnePlus Buds,Headphone,Asif,Cochin,44,75
+29-01-2021,Apple AirPods Pro,Headphone,Asif,Cochin,8,315
+29-01-2021,HP Envy x360,Laptop,Asif,Cochin,5,1080
+29-01-2021,iPhone 11 Pro,Phone,Giana,Cochin,2,1575
+29-01-2021,OnePlus 8 Pro,Phone,Giana,Cochin,2,790
+29-01-2021,Dell XPS 13,Laptop,Aryan,Delhi,6,2001
+29-01-2021,OnePlus Buds,Headphone,Aryan,Delhi,58,75
+29-01-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,14,315
+29-01-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+29-01-2021,iPhone 11 Pro,Phone,Leila,Delhi,3,1575
+29-01-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+29-01-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+29-01-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,37,75
+29-01-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,13,315
+29-01-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+29-01-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,3,1575
+29-01-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,10,790
+05-02-2021,Dell XPS 13,Laptop,Tara,Bangalore,5,2001
+05-02-2021,OnePlus Buds,Headphone,Bruce,Bangalore,48,75
+05-02-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+05-02-2021,HP Envy x360,Laptop,Tara,Bangalore,2,1080
+05-02-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+05-02-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,6,790
+05-02-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+05-02-2021,OnePlus Buds,Headphone,Krish,Mumbai,90,75
+05-02-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+05-02-2021,HP Envy x360,Laptop,Kate,Mumbai,4,1080
+05-02-2021,iPhone 11 Pro,Phone,Krish,Mumbai,4,1575
+05-02-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,11,790
+05-02-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+05-02-2021,OnePlus Buds,Headphone,Giana,Cochin,35,75
+05-02-2021,Apple AirPods Pro,Headphone,Giana,Cochin,11,315
+05-02-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+05-02-2021,iPhone 11 Pro,Phone,Giana,Cochin,5,1575
+05-02-2021,OnePlus 8 Pro,Phone,Giana,Cochin,6,790
+05-02-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+05-02-2021,OnePlus Buds,Headphone,Aryan,Delhi,59,75
+05-02-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,5,315
+05-02-2021,HP Envy x360,Laptop,Aryan,Delhi,5,1080
+05-02-2021,iPhone 11 Pro,Phone,Leila,Delhi,3,1575
+05-02-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+05-02-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+05-02-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,32,75
+05-02-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,9,315
+05-02-2021,HP Envy x360,Laptop,Amar,Hyderabad,3,1080
+05-02-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,6,1575
+05-02-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,10,790
+12-02-2021,Dell XPS 13,Laptop,Tara,Bangalore,3,2001
+12-02-2021,OnePlus Buds,Headphone,Bruce,Bangalore,39,75
+12-02-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+12-02-2021,HP Envy x360,Laptop,Tara,Bangalore,4,1080
+12-02-2021,iPhone 11 Pro,Phone,Tara,Bangalore,5,1575
+12-02-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,10,790
+12-02-2021,Dell XPS 13,Laptop,Kate,Mumbai,4,2001
+12-02-2021,OnePlus Buds,Headphone,Krish,Mumbai,62,75
+12-02-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+12-02-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+12-02-2021,iPhone 11 Pro,Phone,Kate,Mumbai,5,1575
+12-02-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,11,790
+12-02-2021,Dell XPS 13,Laptop,Asif,Cochin,2,2001
+12-02-2021,OnePlus Buds,Headphone,Giana,Cochin,35,75
+12-02-2021,Apple AirPods Pro,Headphone,Giana,Cochin,5,315
+12-02-2021,HP Envy x360,Laptop,Asif,Cochin,2,1080
+12-02-2021,iPhone 11 Pro,Phone,Giana,Cochin,2,1575
+12-02-2021,OnePlus 8 Pro,Phone,Giana,Cochin,5,790
+12-02-2021,Dell XPS 13,Laptop,Aryan,Delhi,4,2001
+12-02-2021,OnePlus Buds,Headphone,Aryan,Delhi,55,75
+12-02-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,14,315
+12-02-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+12-02-2021,iPhone 11 Pro,Phone,Leila,Delhi,5,1575
+12-02-2021,OnePlus 8 Pro,Phone,Leila,Delhi,8,790
+12-02-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+12-02-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,31,75
+12-02-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,8,315
+12-02-2021,HP Envy x360,Laptop,Amar,Hyderabad,2,1080
+12-02-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,2,1575
+12-02-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,5,790
+19-02-2021,Dell XPS 13,Laptop,Tara,Bangalore,6,2001
+19-02-2021,OnePlus Buds,Headphone,Bruce,Bangalore,37,75
+19-02-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+19-02-2021,HP Envy x360,Laptop,Tara,Bangalore,4,1080
+19-02-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+19-02-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,6,790
+19-02-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+19-02-2021,OnePlus Buds,Headphone,Krish,Mumbai,70,75
+19-02-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+19-02-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+19-02-2021,iPhone 11 Pro,Phone,Kate,Mumbai,6,1575
+19-02-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,10,790
+19-02-2021,Dell XPS 13,Laptop,Asif,Cochin,2,2001
+19-02-2021,OnePlus Buds,Headphone,Giana,Cochin,41,75
+19-02-2021,Apple AirPods Pro,Headphone,Giana,Cochin,4,315
+19-02-2021,HP Envy x360,Laptop,Asif,Cochin,2,1080
+19-02-2021,iPhone 11 Pro,Phone,Giana,Cochin,2,1575
+19-02-2021,OnePlus 8 Pro,Phone,Giana,Cochin,6,790
+19-02-2021,Dell XPS 13,Laptop,Aryan,Delhi,4,2001
+19-02-2021,OnePlus Buds,Headphone,Leila,Delhi,49,75
+19-02-2021,Apple AirPods Pro,Headphone,Leila,Delhi,13,315
+19-02-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+19-02-2021,iPhone 11 Pro,Phone,Leila,Delhi,3,1575
+19-02-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+19-02-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+19-02-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,58,75
+19-02-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,13,315
+19-02-2021,HP Envy x360,Laptop,Amar,Hyderabad,2,1080
+19-02-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,2,1575
+19-02-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,11,790
+26-02-2021,Dell XPS 13,Laptop,Tara,Bangalore,4,2001
+26-02-2021,OnePlus Buds,Headphone,Bruce,Bangalore,31,75
+26-02-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,9,315
+26-02-2021,HP Envy x360,Laptop,Tara,Bangalore,2,1080
+26-02-2021,iPhone 11 Pro,Phone,Tara,Bangalore,5,1575
+26-02-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,9,790
+26-02-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+26-02-2021,OnePlus Buds,Headphone,Krish,Mumbai,56,75
+26-02-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+26-02-2021,HP Envy x360,Laptop,Kate,Mumbai,4,1080
+26-02-2021,iPhone 11 Pro,Phone,Kate,Mumbai,3,1575
+26-02-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,10,790
+26-02-2021,Dell XPS 13,Laptop,Asif,Cochin,5,2001
+26-02-2021,OnePlus Buds,Headphone,Giana,Cochin,34,75
+26-02-2021,Apple AirPods Pro,Headphone,Giana,Cochin,10,315
+26-02-2021,HP Envy x360,Laptop,Asif,Cochin,1,1080
+26-02-2021,iPhone 11 Pro,Phone,Giana,Cochin,5,1575
+26-02-2021,OnePlus 8 Pro,Phone,Giana,Cochin,6,790
+26-02-2021,Dell XPS 13,Laptop,Aryan,Delhi,4,2001
+26-02-2021,OnePlus Buds,Headphone,Leila,Delhi,49,75
+26-02-2021,Apple AirPods Pro,Headphone,Leila,Delhi,10,315
+26-02-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+26-02-2021,iPhone 11 Pro,Phone,Leila,Delhi,5,1575
+26-02-2021,OnePlus 8 Pro,Phone,Leila,Delhi,8,790
+26-02-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+26-02-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,45,75
+26-02-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,11,315
+26-02-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+26-02-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,2,1575
+26-02-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,7,790
+05-03-2021,Dell XPS 13,Laptop,Tara,Bangalore,3,2001
+05-03-2021,OnePlus Buds,Headphone,Bruce,Bangalore,57,75
+05-03-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,11,315
+05-03-2021,HP Envy x360,Laptop,Tara,Bangalore,5,1080
+05-03-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+05-03-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,9,790
+05-03-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+05-03-2021,OnePlus Buds,Headphone,Krish,Mumbai,71,75
+05-03-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,16,315
+05-03-2021,HP Envy x360,Laptop,Kate,Mumbai,4,1080
+05-03-2021,iPhone 11 Pro,Phone,Kate,Mumbai,2,1575
+05-03-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,6,790
+05-03-2021,Dell XPS 13,Laptop,Asif,Cochin,3,2001
+05-03-2021,OnePlus Buds,Headphone,Giana,Cochin,35,75
+05-03-2021,Apple AirPods Pro,Headphone,Giana,Cochin,5,315
+05-03-2021,HP Envy x360,Laptop,Asif,Cochin,1,1080
+05-03-2021,iPhone 11 Pro,Phone,Giana,Cochin,2,1575
+05-03-2021,OnePlus 8 Pro,Phone,Giana,Cochin,5,790
+05-03-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+05-03-2021,OnePlus Buds,Headphone,Leila,Delhi,33,75
+05-03-2021,Apple AirPods Pro,Headphone,Leila,Delhi,15,315
+05-03-2021,HP Envy x360,Laptop,Aryan,Delhi,5,1080
+05-03-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+05-03-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+05-03-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+05-03-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,40,75
+05-03-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,15,315
+05-03-2021,HP Envy x360,Laptop,Amar,Hyderabad,2,1080
+05-03-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,4,1575
+05-03-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,9,790
+12-03-2021,Dell XPS 13,Laptop,Tara,Bangalore,6,2001
+12-03-2021,OnePlus Buds,Headphone,Bruce,Bangalore,60,75
+12-03-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+12-03-2021,HP Envy x360,Laptop,Tara,Bangalore,4,1080
+12-03-2021,iPhone 11 Pro,Phone,Tara,Bangalore,2,1575
+12-03-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,7,790
+12-03-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+12-03-2021,OnePlus Buds,Headphone,Krish,Mumbai,55,75
+12-03-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,9,315
+12-03-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+12-03-2021,iPhone 11 Pro,Phone,Kate,Mumbai,5,1575
+12-03-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,7,790
+12-03-2021,Dell XPS 13,Laptop,Asif,Cochin,1,2001
+12-03-2021,OnePlus Buds,Headphone,Giana,Cochin,25,75
+12-03-2021,Apple AirPods Pro,Headphone,Giana,Cochin,5,315
+12-03-2021,HP Envy x360,Laptop,Asif,Cochin,2,1080
+12-03-2021,iPhone 11 Pro,Phone,Giana,Cochin,1,1575
+12-03-2021,OnePlus 8 Pro,Phone,Giana,Cochin,6,790
+12-03-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+12-03-2021,OnePlus Buds,Headphone,Leila,Delhi,38,75
+12-03-2021,Apple AirPods Pro,Headphone,Leila,Delhi,9,315
+12-03-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+12-03-2021,iPhone 11 Pro,Phone,Leila,Delhi,5,1575
+12-03-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+12-03-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+12-03-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,48,75
+12-03-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,8,315
+12-03-2021,HP Envy x360,Laptop,Amar,Hyderabad,3,1080
+12-03-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,4,1575
+12-03-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,5,790
+19-03-2021,Dell XPS 13,Laptop,Tara,Bangalore,3,2001
+19-03-2021,OnePlus Buds,Headphone,Bruce,Bangalore,47,75
+19-03-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,15,315
+19-03-2021,HP Envy x360,Laptop,Tara,Bangalore,3,1080
+19-03-2021,iPhone 11 Pro,Phone,Tara,Bangalore,5,1575
+19-03-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,6,790
+19-03-2021,Dell XPS 13,Laptop,Kate,Mumbai,4,2001
+19-03-2021,OnePlus Buds,Headphone,Krish,Mumbai,66,75
+19-03-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,10,315
+19-03-2021,HP Envy x360,Laptop,Kate,Mumbai,2,1080
+19-03-2021,iPhone 11 Pro,Phone,Kate,Mumbai,6,1575
+19-03-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,8,790
+19-03-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+19-03-2021,OnePlus Buds,Headphone,Giana,Cochin,25,75
+19-03-2021,Apple AirPods Pro,Headphone,Giana,Cochin,4,315
+19-03-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+19-03-2021,iPhone 11 Pro,Phone,Giana,Cochin,1,1575
+19-03-2021,OnePlus 8 Pro,Phone,Giana,Cochin,5,790
+19-03-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+19-03-2021,OnePlus Buds,Headphone,Leila,Delhi,41,75
+19-03-2021,Apple AirPods Pro,Headphone,Leila,Delhi,9,315
+19-03-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+19-03-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+19-03-2021,OnePlus 8 Pro,Phone,Leila,Delhi,11,790
+19-03-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+19-03-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,56,75
+19-03-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,10,315
+19-03-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+19-03-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,5,1575
+19-03-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,8,790
+26-03-2021,Dell XPS 13,Laptop,Tara,Bangalore,6,2001
+26-03-2021,OnePlus Buds,Headphone,Bruce,Bangalore,59,75
+26-03-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+26-03-2021,HP Envy x360,Laptop,Tara,Bangalore,5,1080
+26-03-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+26-03-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,7,790
+26-03-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+26-03-2021,OnePlus Buds,Headphone,Krish,Mumbai,35,75
+26-03-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,12,315
+26-03-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+26-03-2021,iPhone 11 Pro,Phone,Krish,Mumbai,5,1575
+26-03-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,5,790
+26-03-2021,Dell XPS 13,Laptop,Asif,Cochin,2,2001
+26-03-2021,OnePlus Buds,Headphone,Giana,Cochin,25,75
+26-03-2021,Apple AirPods Pro,Headphone,Giana,Cochin,9,315
+26-03-2021,HP Envy x360,Laptop,Asif,Cochin,2,1080
+26-03-2021,iPhone 11 Pro,Phone,Giana,Cochin,6,1575
+26-03-2021,OnePlus 8 Pro,Phone,Giana,Cochin,9,790
+26-03-2021,Dell XPS 13,Laptop,Aryan,Delhi,4,2001
+26-03-2021,OnePlus Buds,Headphone,Leila,Delhi,44,75
+26-03-2021,Apple AirPods Pro,Headphone,Leila,Delhi,6,315
+26-03-2021,HP Envy x360,Laptop,Aryan,Delhi,5,1080
+26-03-2021,iPhone 11 Pro,Phone,Leila,Delhi,3,1575
+26-03-2021,OnePlus 8 Pro,Phone,Leila,Delhi,8,790
+26-03-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+26-03-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,51,75
+26-03-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,10,315
+26-03-2021,HP Envy x360,Laptop,Amar,Hyderabad,4,1080
+26-03-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,5,1575
+26-03-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,9,790
+02-04-2021,Dell XPS 13,Laptop,Tara,Bangalore,6,2001
+02-04-2021,OnePlus Buds,Headphone,Bruce,Bangalore,50,75
+02-04-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,6,315
+02-04-2021,HP Envy x360,Laptop,Tara,Bangalore,5,1080
+02-04-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+02-04-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,8,790
+02-04-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+02-04-2021,OnePlus Buds,Headphone,Krish,Mumbai,45,75
+02-04-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+02-04-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+02-04-2021,iPhone 11 Pro,Phone,Krish,Mumbai,2,1575
+02-04-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,10,790
+02-04-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+02-04-2021,OnePlus Buds,Headphone,Giana,Cochin,43,75
+02-04-2021,Apple AirPods Pro,Headphone,Asif,Cochin,6,315
+02-04-2021,HP Envy x360,Laptop,Asif,Cochin,3,1080
+02-04-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+02-04-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+02-04-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+02-04-2021,OnePlus Buds,Headphone,Aryan,Delhi,38,75
+02-04-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,12,315
+02-04-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+02-04-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+02-04-2021,OnePlus 8 Pro,Phone,Leila,Delhi,8,790
+02-04-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+02-04-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,55,75
+02-04-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,13,315
+02-04-2021,HP Envy x360,Laptop,Amar,Hyderabad,4,1080
+02-04-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,2,1575
+02-04-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,7,790
+09-04-2021,Dell XPS 13,Laptop,Tara,Bangalore,5,2001
+09-04-2021,OnePlus Buds,Headphone,Bruce,Bangalore,42,75
+09-04-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,9,315
+09-04-2021,HP Envy x360,Laptop,Tara,Bangalore,6,1080
+09-04-2021,iPhone 11 Pro,Phone,Tara,Bangalore,2,1575
+09-04-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,9,790
+09-04-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+09-04-2021,OnePlus Buds,Headphone,Krish,Mumbai,66,75
+09-04-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+09-04-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+09-04-2021,iPhone 11 Pro,Phone,Krish,Mumbai,6,1575
+09-04-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,9,790
+09-04-2021,Dell XPS 13,Laptop,Asif,Cochin,5,2001
+09-04-2021,OnePlus Buds,Headphone,Asif,Cochin,44,75
+09-04-2021,Apple AirPods Pro,Headphone,Asif,Cochin,6,315
+09-04-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+09-04-2021,iPhone 11 Pro,Phone,Giana,Cochin,2,1575
+09-04-2021,OnePlus 8 Pro,Phone,Giana,Cochin,6,790
+09-04-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+09-04-2021,OnePlus Buds,Headphone,Aryan,Delhi,45,75
+09-04-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,6,315
+09-04-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+09-04-2021,iPhone 11 Pro,Phone,Leila,Delhi,2,1575
+09-04-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+09-04-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+09-04-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,37,75
+09-04-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,8,315
+09-04-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+09-04-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,2,1575
+09-04-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,8,790
+16-04-2021,Dell XPS 13,Laptop,Tara,Bangalore,3,2001
+16-04-2021,OnePlus Buds,Headphone,Bruce,Bangalore,48,75
+16-04-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,5,315
+16-04-2021,HP Envy x360,Laptop,Tara,Bangalore,2,1080
+16-04-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+16-04-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,8,790
+16-04-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+16-04-2021,OnePlus Buds,Headphone,Krish,Mumbai,33,75
+16-04-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,12,315
+16-04-2021,HP Envy x360,Laptop,Kate,Mumbai,2,1080
+16-04-2021,iPhone 11 Pro,Phone,Krish,Mumbai,6,1575
+16-04-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,6,790
+16-04-2021,Dell XPS 13,Laptop,Asif,Cochin,3,2001
+16-04-2021,OnePlus Buds,Headphone,Asif,Cochin,60,75
+16-04-2021,Apple AirPods Pro,Headphone,Asif,Cochin,9,315
+16-04-2021,HP Envy x360,Laptop,Asif,Cochin,6,1080
+16-04-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+16-04-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+16-04-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+16-04-2021,OnePlus Buds,Headphone,Aryan,Delhi,49,75
+16-04-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,14,315
+16-04-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+16-04-2021,iPhone 11 Pro,Phone,Leila,Delhi,3,1575
+16-04-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+16-04-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+16-04-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,57,75
+16-04-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,12,315
+16-04-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+16-04-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,5,1575
+16-04-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,11,790
+23-04-2021,Dell XPS 13,Laptop,Tara,Bangalore,4,2001
+23-04-2021,OnePlus Buds,Headphone,Bruce,Bangalore,46,75
+23-04-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+23-04-2021,HP Envy x360,Laptop,Tara,Bangalore,2,1080
+23-04-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+23-04-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,7,790
+23-04-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+23-04-2021,OnePlus Buds,Headphone,Krish,Mumbai,47,75
+23-04-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,8,315
+23-04-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+23-04-2021,iPhone 11 Pro,Phone,Krish,Mumbai,5,1575
+23-04-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,9,790
+23-04-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+23-04-2021,OnePlus Buds,Headphone,Asif,Cochin,38,75
+23-04-2021,Apple AirPods Pro,Headphone,Asif,Cochin,10,315
+23-04-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+23-04-2021,iPhone 11 Pro,Phone,Giana,Cochin,6,1575
+23-04-2021,OnePlus 8 Pro,Phone,Giana,Cochin,7,790
+23-04-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+23-04-2021,OnePlus Buds,Headphone,Aryan,Delhi,54,75
+23-04-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,8,315
+23-04-2021,HP Envy x360,Laptop,Aryan,Delhi,3,1080
+23-04-2021,iPhone 11 Pro,Phone,Leila,Delhi,2,1575
+23-04-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+23-04-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+23-04-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,50,75
+23-04-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,11,315
+23-04-2021,HP Envy x360,Laptop,Amar,Hyderabad,3,1080
+23-04-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,5,1575
+23-04-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,7,790
+30-04-2021,Dell XPS 13,Laptop,Tara,Bangalore,5,2001
+30-04-2021,OnePlus Buds,Headphone,Bruce,Bangalore,52,75
+30-04-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,11,315
+30-04-2021,HP Envy x360,Laptop,Tara,Bangalore,6,1080
+30-04-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+30-04-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,11,790
+30-04-2021,Dell XPS 13,Laptop,Kate,Mumbai,4,2001
+30-04-2021,OnePlus Buds,Headphone,Krish,Mumbai,33,75
+30-04-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,7,315
+30-04-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+30-04-2021,iPhone 11 Pro,Phone,Krish,Mumbai,6,1575
+30-04-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,7,790
+30-04-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+30-04-2021,OnePlus Buds,Headphone,Asif,Cochin,41,75
+30-04-2021,Apple AirPods Pro,Headphone,Asif,Cochin,13,315
+30-04-2021,HP Envy x360,Laptop,Asif,Cochin,6,1080
+30-04-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+30-04-2021,OnePlus 8 Pro,Phone,Giana,Cochin,10,790
+30-04-2021,Dell XPS 13,Laptop,Aryan,Delhi,4,2001
+30-04-2021,OnePlus Buds,Headphone,Aryan,Delhi,47,75
+30-04-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,5,315
+30-04-2021,HP Envy x360,Laptop,Aryan,Delhi,5,1080
+30-04-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+30-04-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+30-04-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+30-04-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,50,75
+30-04-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,11,315
+30-04-2021,HP Envy x360,Laptop,Amar,Hyderabad,2,1080
+30-04-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,2,1575
+30-04-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,6,790
+07-05-2021,Dell XPS 13,Laptop,Tara,Bangalore,3,2001
+07-05-2021,OnePlus Buds,Headphone,Bruce,Bangalore,54,75
+07-05-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,9,315
+07-05-2021,HP Envy x360,Laptop,Tara,Bangalore,4,1080
+07-05-2021,iPhone 11 Pro,Phone,Tara,Bangalore,2,1575
+07-05-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,6,790
+07-05-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+07-05-2021,OnePlus Buds,Headphone,Krish,Mumbai,35,75
+07-05-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,13,315
+07-05-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+07-05-2021,iPhone 11 Pro,Phone,Krish,Mumbai,6,1575
+07-05-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,10,790
+07-05-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+07-05-2021,OnePlus Buds,Headphone,Asif,Cochin,51,75
+07-05-2021,Apple AirPods Pro,Headphone,Giana,Cochin,10,315
+07-05-2021,HP Envy x360,Laptop,Asif,Cochin,5,1080
+07-05-2021,iPhone 11 Pro,Phone,Giana,Cochin,5,1575
+07-05-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+07-05-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+07-05-2021,OnePlus Buds,Headphone,Aryan,Delhi,48,75
+07-05-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,7,315
+07-05-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+07-05-2021,iPhone 11 Pro,Phone,Leila,Delhi,2,1575
+07-05-2021,OnePlus 8 Pro,Phone,Leila,Delhi,11,790
+07-05-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+07-05-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,57,75
+07-05-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,7,315
+07-05-2021,HP Envy x360,Laptop,Amar,Hyderabad,3,1080
+07-05-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,6,1575
+07-05-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,10,790
+14-05-2021,Dell XPS 13,Laptop,Tara,Bangalore,5,2001
+14-05-2021,OnePlus Buds,Headphone,Bruce,Bangalore,52,75
+14-05-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,5,315
+14-05-2021,HP Envy x360,Laptop,Tara,Bangalore,2,1080
+14-05-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+14-05-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,8,790
+14-05-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+14-05-2021,OnePlus Buds,Headphone,Krish,Mumbai,38,75
+14-05-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,6,315
+14-05-2021,HP Envy x360,Laptop,Kate,Mumbai,2,1080
+14-05-2021,iPhone 11 Pro,Phone,Kate,Mumbai,5,1575
+14-05-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,6,790
+14-05-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+14-05-2021,OnePlus Buds,Headphone,Giana,Cochin,31,75
+14-05-2021,Apple AirPods Pro,Headphone,Giana,Cochin,11,315
+14-05-2021,HP Envy x360,Laptop,Asif,Cochin,6,1080
+14-05-2021,iPhone 11 Pro,Phone,Giana,Cochin,4,1575
+14-05-2021,OnePlus 8 Pro,Phone,Giana,Cochin,10,790
+14-05-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+14-05-2021,OnePlus Buds,Headphone,Aryan,Delhi,39,75
+14-05-2021,Apple AirPods Pro,Headphone,Leila,Delhi,5,315
+14-05-2021,HP Envy x360,Laptop,Aryan,Delhi,3,1080
+14-05-2021,iPhone 11 Pro,Phone,Leila,Delhi,5,1575
+14-05-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+14-05-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+14-05-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,32,75
+14-05-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,8,315
+14-05-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+14-05-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,5,1575
+14-05-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,11,790
+21-05-2021,Dell XPS 13,Laptop,Tara,Bangalore,6,2001
+21-05-2021,OnePlus Buds,Headphone,Bruce,Bangalore,37,75
+21-05-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,7,315
+21-05-2021,HP Envy x360,Laptop,Tara,Bangalore,6,1080
+21-05-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+21-05-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,8,790
+21-05-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+21-05-2021,OnePlus Buds,Headphone,Krish,Mumbai,36,75
+21-05-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,13,315
+21-05-2021,HP Envy x360,Laptop,Kate,Mumbai,4,1080
+21-05-2021,iPhone 11 Pro,Phone,Kate,Mumbai,3,1575
+21-05-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,9,790
+21-05-2021,Dell XPS 13,Laptop,Asif,Cochin,3,2001
+21-05-2021,OnePlus Buds,Headphone,Giana,Cochin,57,75
+21-05-2021,Apple AirPods Pro,Headphone,Giana,Cochin,9,315
+21-05-2021,HP Envy x360,Laptop,Asif,Cochin,6,1080
+21-05-2021,iPhone 11 Pro,Phone,Giana,Cochin,2,1575
+21-05-2021,OnePlus 8 Pro,Phone,Giana,Cochin,11,790
+21-05-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+21-05-2021,OnePlus Buds,Headphone,Leila,Delhi,55,75
+21-05-2021,Apple AirPods Pro,Headphone,Leila,Delhi,11,315
+21-05-2021,HP Envy x360,Laptop,Aryan,Delhi,5,1080
+21-05-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+21-05-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+21-05-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+21-05-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,48,75
+21-05-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,13,315
+21-05-2021,HP Envy x360,Laptop,Amar,Hyderabad,4,1080
+21-05-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,6,1575
+21-05-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,7,790
+28-05-2021,Dell XPS 13,Laptop,Tara,Bangalore,4,2001
+28-05-2021,OnePlus Buds,Headphone,Bruce,Bangalore,47,75
+28-05-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,7,315
+28-05-2021,HP Envy x360,Laptop,Tara,Bangalore,6,1080
+28-05-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+28-05-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,11,790
+28-05-2021,Dell XPS 13,Laptop,Kate,Mumbai,4,2001
+28-05-2021,OnePlus Buds,Headphone,Krish,Mumbai,56,75
+28-05-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,5,315
+28-05-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+28-05-2021,iPhone 11 Pro,Phone,Kate,Mumbai,6,1575
+28-05-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,11,790
+28-05-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+28-05-2021,OnePlus Buds,Headphone,Giana,Cochin,43,75
+28-05-2021,Apple AirPods Pro,Headphone,Giana,Cochin,7,315
+28-05-2021,HP Envy x360,Laptop,Asif,Cochin,5,1080
+28-05-2021,iPhone 11 Pro,Phone,Giana,Cochin,4,1575
+28-05-2021,OnePlus 8 Pro,Phone,Giana,Cochin,10,790
+28-05-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+28-05-2021,OnePlus Buds,Headphone,Leila,Delhi,53,75
+28-05-2021,Apple AirPods Pro,Headphone,Leila,Delhi,6,315
+28-05-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+28-05-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+28-05-2021,OnePlus 8 Pro,Phone,Leila,Delhi,8,790
+28-05-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+28-05-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,48,75
+28-05-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,11,315
+28-05-2021,HP Envy x360,Laptop,Amar,Hyderabad,4,1080
+28-05-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,2,1575
+28-05-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,6,790
+04-06-2021,Dell XPS 13,Laptop,Tara,Bangalore,3,2001
+04-06-2021,OnePlus Buds,Headphone,Bruce,Bangalore,56,75
+04-06-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,6,315
+04-06-2021,HP Envy x360,Laptop,Tara,Bangalore,3,1080
+04-06-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+04-06-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,6,790
+04-06-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+04-06-2021,OnePlus Buds,Headphone,Krish,Mumbai,31,75
+04-06-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,12,315
+04-06-2021,HP Envy x360,Laptop,Kate,Mumbai,4,1080
+04-06-2021,iPhone 11 Pro,Phone,Kate,Mumbai,5,1575
+04-06-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,7,790
+04-06-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+04-06-2021,OnePlus Buds,Headphone,Giana,Cochin,32,75
+04-06-2021,Apple AirPods Pro,Headphone,Giana,Cochin,6,315
+04-06-2021,HP Envy x360,Laptop,Asif,Cochin,3,1080
+04-06-2021,iPhone 11 Pro,Phone,Giana,Cochin,5,1575
+04-06-2021,OnePlus 8 Pro,Phone,Giana,Cochin,11,790
+04-06-2021,Dell XPS 13,Laptop,Aryan,Delhi,6,2001
+04-06-2021,OnePlus Buds,Headphone,Leila,Delhi,39,75
+04-06-2021,Apple AirPods Pro,Headphone,Leila,Delhi,13,315
+04-06-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+04-06-2021,iPhone 11 Pro,Phone,Leila,Delhi,5,1575
+04-06-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+04-06-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+04-06-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,54,75
+04-06-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,5,315
+04-06-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+04-06-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,2,1575
+04-06-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,6,790
+11-06-2021,Dell XPS 13,Laptop,Tara,Bangalore,4,2001
+11-06-2021,OnePlus Buds,Headphone,Bruce,Bangalore,42,75
+11-06-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,9,315
+11-06-2021,HP Envy x360,Laptop,Tara,Bangalore,4,1080
+11-06-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+11-06-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,7,790
+11-06-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+11-06-2021,OnePlus Buds,Headphone,Krish,Mumbai,46,75
+11-06-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,7,315
+11-06-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+11-06-2021,iPhone 11 Pro,Phone,Kate,Mumbai,4,1575
+11-06-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,8,790
+11-06-2021,Dell XPS 13,Laptop,Asif,Cochin,5,2001
+11-06-2021,OnePlus Buds,Headphone,Giana,Cochin,34,75
+11-06-2021,Apple AirPods Pro,Headphone,Giana,Cochin,8,315
+11-06-2021,HP Envy x360,Laptop,Asif,Cochin,5,1080
+11-06-2021,iPhone 11 Pro,Phone,Giana,Cochin,4,1575
+11-06-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+11-06-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+11-06-2021,OnePlus Buds,Headphone,Leila,Delhi,54,75
+11-06-2021,Apple AirPods Pro,Headphone,Leila,Delhi,12,315
+11-06-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+11-06-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+11-06-2021,OnePlus 8 Pro,Phone,Leila,Delhi,9,790
+11-06-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+11-06-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,53,75
+11-06-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,12,315
+11-06-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+11-06-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,5,1575
+11-06-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,7,790
+18-06-2021,Dell XPS 13,Laptop,Tara,Bangalore,4,2001
+18-06-2021,OnePlus Buds,Headphone,Bruce,Bangalore,49,75
+18-06-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,7,315
+18-06-2021,HP Envy x360,Laptop,Tara,Bangalore,2,1080
+18-06-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+18-06-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,7,790
+18-06-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+18-06-2021,OnePlus Buds,Headphone,Krish,Mumbai,35,75
+18-06-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,9,315
+18-06-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+18-06-2021,iPhone 11 Pro,Phone,Kate,Mumbai,3,1575
+18-06-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,5,790
+18-06-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+18-06-2021,OnePlus Buds,Headphone,Asif,Cochin,51,75
+18-06-2021,Apple AirPods Pro,Headphone,Asif,Cochin,10,315
+18-06-2021,HP Envy x360,Laptop,Asif,Cochin,6,1080
+18-06-2021,iPhone 11 Pro,Phone,Giana,Cochin,4,1575
+18-06-2021,OnePlus 8 Pro,Phone,Giana,Cochin,6,790
+18-06-2021,Dell XPS 13,Laptop,Aryan,Delhi,4,2001
+18-06-2021,OnePlus Buds,Headphone,Leila,Delhi,43,75
+18-06-2021,Apple AirPods Pro,Headphone,Leila,Delhi,9,315
+18-06-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+18-06-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+18-06-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+18-06-2021,Dell XPS 13,Laptop,Amar,Hyderabad,3,2001
+18-06-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,51,75
+18-06-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,8,315
+18-06-2021,HP Envy x360,Laptop,Amar,Hyderabad,2,1080
+18-06-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,4,1575
+18-06-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,9,790
+25-06-2021,Dell XPS 13,Laptop,Tara,Bangalore,6,2001
+25-06-2021,OnePlus Buds,Headphone,Bruce,Bangalore,43,75
+25-06-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,11,315
+25-06-2021,HP Envy x360,Laptop,Bruce,Bangalore,6,1080
+25-06-2021,iPhone 11 Pro,Phone,Tara,Bangalore,2,1575
+25-06-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,7,790
+25-06-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+25-06-2021,OnePlus Buds,Headphone,Krish,Mumbai,42,75
+25-06-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,6,315
+25-06-2021,HP Envy x360,Laptop,Kate,Mumbai,2,1080
+25-06-2021,iPhone 11 Pro,Phone,Krish,Mumbai,3,1575
+25-06-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,11,790
+25-06-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+25-06-2021,OnePlus Buds,Headphone,Asif,Cochin,56,75
+25-06-2021,Apple AirPods Pro,Headphone,Asif,Cochin,9,315
+25-06-2021,HP Envy x360,Laptop,Asif,Cochin,3,1080
+25-06-2021,iPhone 11 Pro,Phone,Giana,Cochin,4,1575
+25-06-2021,OnePlus 8 Pro,Phone,Giana,Cochin,11,790
+25-06-2021,Dell XPS 13,Laptop,Aryan,Delhi,6,2001
+25-06-2021,OnePlus Buds,Headphone,Leila,Delhi,53,75
+25-06-2021,Apple AirPods Pro,Headphone,Leila,Delhi,13,315
+25-06-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+25-06-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+25-06-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+25-06-2021,Dell XPS 13,Laptop,Amar,Hyderabad,3,2001
+25-06-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,37,75
+25-06-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,12,315
+25-06-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+25-06-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,4,1575
+25-06-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,10,790
+02-07-2021,Dell XPS 13,Laptop,Bruce,Bangalore,3,2001
+02-07-2021,OnePlus Buds,Headphone,Bruce,Bangalore,38,75
+02-07-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,14,315
+02-07-2021,HP Envy x360,Laptop,Bruce,Bangalore,6,1080
+02-07-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+02-07-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,11,790
+02-07-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+02-07-2021,OnePlus Buds,Headphone,Krish,Mumbai,44,75
+02-07-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,11,315
+02-07-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+02-07-2021,iPhone 11 Pro,Phone,Krish,Mumbai,5,1575
+02-07-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,7,790
+02-07-2021,Dell XPS 13,Laptop,Asif,Cochin,3,2001
+02-07-2021,OnePlus Buds,Headphone,Asif,Cochin,56,75
+02-07-2021,Apple AirPods Pro,Headphone,Asif,Cochin,7,315
+02-07-2021,HP Envy x360,Laptop,Asif,Cochin,5,1080
+02-07-2021,iPhone 11 Pro,Phone,Giana,Cochin,6,1575
+02-07-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+02-07-2021,Dell XPS 13,Laptop,Aryan,Delhi,6,2001
+02-07-2021,OnePlus Buds,Headphone,Leila,Delhi,45,75
+02-07-2021,Apple AirPods Pro,Headphone,Leila,Delhi,5,315
+02-07-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+02-07-2021,iPhone 11 Pro,Phone,Leila,Delhi,5,1575
+02-07-2021,OnePlus 8 Pro,Phone,Leila,Delhi,5,790
+02-07-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+02-07-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,37,75
+02-07-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,14,315
+02-07-2021,HP Envy x360,Laptop,Amar,Hyderabad,4,1080
+02-07-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,4,1575
+02-07-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,11,790
+09-07-2021,Dell XPS 13,Laptop,Bruce,Bangalore,6,2001
+09-07-2021,OnePlus Buds,Headphone,Bruce,Bangalore,60,75
+09-07-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,6,315
+09-07-2021,HP Envy x360,Laptop,Bruce,Bangalore,6,1080
+09-07-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+09-07-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,7,790
+09-07-2021,Dell XPS 13,Laptop,Kate,Mumbai,4,2001
+09-07-2021,OnePlus Buds,Headphone,Krish,Mumbai,32,75
+09-07-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,7,315
+09-07-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+09-07-2021,iPhone 11 Pro,Phone,Krish,Mumbai,2,1575
+09-07-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,6,790
+09-07-2021,Dell XPS 13,Laptop,Asif,Cochin,5,2001
+09-07-2021,OnePlus Buds,Headphone,Asif,Cochin,33,75
+09-07-2021,Apple AirPods Pro,Headphone,Asif,Cochin,7,315
+09-07-2021,HP Envy x360,Laptop,Asif,Cochin,5,1080
+09-07-2021,iPhone 11 Pro,Phone,Giana,Cochin,4,1575
+09-07-2021,OnePlus 8 Pro,Phone,Giana,Cochin,7,790
+09-07-2021,Dell XPS 13,Laptop,Aryan,Delhi,4,2001
+09-07-2021,OnePlus Buds,Headphone,Leila,Delhi,54,75
+09-07-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,12,315
+09-07-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+09-07-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+09-07-2021,OnePlus 8 Pro,Phone,Leila,Delhi,9,790
+09-07-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+09-07-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,52,75
+09-07-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,7,315
+09-07-2021,HP Envy x360,Laptop,Amar,Hyderabad,4,1080
+09-07-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,4,1575
+09-07-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,6,790
+16-07-2021,Dell XPS 13,Laptop,Bruce,Bangalore,6,2001
+16-07-2021,OnePlus Buds,Headphone,Bruce,Bangalore,33,75
+16-07-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,8,315
+16-07-2021,HP Envy x360,Laptop,Bruce,Bangalore,5,1080
+16-07-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+16-07-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,10,790
+16-07-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+16-07-2021,OnePlus Buds,Headphone,Krish,Mumbai,60,75
+16-07-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,5,315
+16-07-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+16-07-2021,iPhone 11 Pro,Phone,Krish,Mumbai,5,1575
+16-07-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,7,790
+16-07-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+16-07-2021,OnePlus Buds,Headphone,Asif,Cochin,35,75
+16-07-2021,Apple AirPods Pro,Headphone,Asif,Cochin,8,315
+16-07-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+16-07-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+16-07-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+16-07-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+16-07-2021,OnePlus Buds,Headphone,Aryan,Delhi,37,75
+16-07-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,7,315
+16-07-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+16-07-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+16-07-2021,OnePlus 8 Pro,Phone,Leila,Delhi,9,790
+16-07-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+16-07-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,38,75
+16-07-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,9,315
+16-07-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+16-07-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,3,1575
+16-07-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,6,790
+23-07-2021,Dell XPS 13,Laptop,Bruce,Bangalore,6,2001
+23-07-2021,OnePlus Buds,Headphone,Bruce,Bangalore,52,75
+23-07-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,8,315
+23-07-2021,HP Envy x360,Laptop,Bruce,Bangalore,5,1080
+23-07-2021,iPhone 11 Pro,Phone,Tara,Bangalore,5,1575
+23-07-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,8,790
+23-07-2021,Dell XPS 13,Laptop,Kate,Mumbai,4,2001
+23-07-2021,OnePlus Buds,Headphone,Krish,Mumbai,32,75
+23-07-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,9,315
+23-07-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+23-07-2021,iPhone 11 Pro,Phone,Krish,Mumbai,4,1575
+23-07-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,8,790
+23-07-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+23-07-2021,OnePlus Buds,Headphone,Asif,Cochin,47,75
+23-07-2021,Apple AirPods Pro,Headphone,Asif,Cochin,14,315
+23-07-2021,HP Envy x360,Laptop,Asif,Cochin,2,1080
+23-07-2021,iPhone 11 Pro,Phone,Giana,Cochin,5,1575
+23-07-2021,OnePlus 8 Pro,Phone,Giana,Cochin,10,790
+23-07-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+23-07-2021,OnePlus Buds,Headphone,Aryan,Delhi,49,75
+23-07-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,15,315
+23-07-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+23-07-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+23-07-2021,OnePlus 8 Pro,Phone,Leila,Delhi,8,790
+23-07-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+23-07-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,53,75
+23-07-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,14,315
+23-07-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+23-07-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,5,1575
+23-07-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,5,790
+30-07-2021,Dell XPS 13,Laptop,Bruce,Bangalore,5,2001
+30-07-2021,OnePlus Buds,Headphone,Bruce,Bangalore,49,75
+30-07-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,7,315
+30-07-2021,HP Envy x360,Laptop,Bruce,Bangalore,6,1080
+30-07-2021,iPhone 11 Pro,Phone,Tara,Bangalore,5,1575
+30-07-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,10,790
+30-07-2021,Dell XPS 13,Laptop,Kate,Mumbai,4,2001
+30-07-2021,OnePlus Buds,Headphone,Krish,Mumbai,53,75
+30-07-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,5,315
+30-07-2021,HP Envy x360,Laptop,Kate,Mumbai,4,1080
+30-07-2021,iPhone 11 Pro,Phone,Krish,Mumbai,6,1575
+30-07-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,8,790
+30-07-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+30-07-2021,OnePlus Buds,Headphone,Giana,Cochin,39,75
+30-07-2021,Apple AirPods Pro,Headphone,Giana,Cochin,12,315
+30-07-2021,HP Envy x360,Laptop,Asif,Cochin,5,1080
+30-07-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+30-07-2021,OnePlus 8 Pro,Phone,Giana,Cochin,10,790
+30-07-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+30-07-2021,OnePlus Buds,Headphone,Aryan,Delhi,40,75
+30-07-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,11,315
+30-07-2021,HP Envy x360,Laptop,Aryan,Delhi,3,1080
+30-07-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+30-07-2021,OnePlus 8 Pro,Phone,Leila,Delhi,8,790
+30-07-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+30-07-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,59,75
+30-07-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,13,315
+30-07-2021,HP Envy x360,Laptop,Amar,Hyderabad,4,1080
+30-07-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,3,1575
+30-07-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,8,790
+06-08-2021,Dell XPS 13,Laptop,Bruce,Bangalore,6,2001
+06-08-2021,OnePlus Buds,Headphone,Bruce,Bangalore,48,75
+06-08-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,8,315
+06-08-2021,HP Envy x360,Laptop,Bruce,Bangalore,3,1080
+06-08-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+06-08-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,7,790
+06-08-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+06-08-2021,OnePlus Buds,Headphone,Krish,Mumbai,58,75
+06-08-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,11,315
+06-08-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+06-08-2021,iPhone 11 Pro,Phone,Kate,Mumbai,6,1575
+06-08-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,10,790
+06-08-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+06-08-2021,OnePlus Buds,Headphone,Giana,Cochin,59,75
+06-08-2021,Apple AirPods Pro,Headphone,Giana,Cochin,7,315
+06-08-2021,HP Envy x360,Laptop,Asif,Cochin,6,1080
+06-08-2021,iPhone 11 Pro,Phone,Giana,Cochin,6,1575
+06-08-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+06-08-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+06-08-2021,OnePlus Buds,Headphone,Aryan,Delhi,48,75
+06-08-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,8,315
+06-08-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+06-08-2021,iPhone 11 Pro,Phone,Leila,Delhi,2,1575
+06-08-2021,OnePlus 8 Pro,Phone,Leila,Delhi,7,790
+06-08-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+06-08-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,37,75
+06-08-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,9,315
+06-08-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+06-08-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,2,1575
+06-08-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,7,790
+13-08-2021,Dell XPS 13,Laptop,Bruce,Bangalore,4,2001
+13-08-2021,OnePlus Buds,Headphone,Bruce,Bangalore,39,75
+13-08-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,5,315
+13-08-2021,HP Envy x360,Laptop,Bruce,Bangalore,2,1080
+13-08-2021,iPhone 11 Pro,Phone,Tara,Bangalore,2,1575
+13-08-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,5,790
+13-08-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+13-08-2021,OnePlus Buds,Headphone,Krish,Mumbai,57,75
+13-08-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,6,315
+13-08-2021,HP Envy x360,Laptop,Kate,Mumbai,4,1080
+13-08-2021,iPhone 11 Pro,Phone,Kate,Mumbai,6,1575
+13-08-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,5,790
+13-08-2021,Dell XPS 13,Laptop,Asif,Cochin,5,2001
+13-08-2021,OnePlus Buds,Headphone,Giana,Cochin,32,75
+13-08-2021,Apple AirPods Pro,Headphone,Giana,Cochin,6,315
+13-08-2021,HP Envy x360,Laptop,Asif,Cochin,3,1080
+13-08-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+13-08-2021,OnePlus 8 Pro,Phone,Giana,Cochin,5,790
+13-08-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+13-08-2021,OnePlus Buds,Headphone,Aryan,Delhi,51,75
+13-08-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,13,315
+13-08-2021,HP Envy x360,Laptop,Aryan,Delhi,3,1080
+13-08-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+13-08-2021,OnePlus 8 Pro,Phone,Leila,Delhi,5,790
+13-08-2021,Dell XPS 13,Laptop,Amar,Hyderabad,3,2001
+13-08-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,56,75
+13-08-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,7,315
+13-08-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+13-08-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,5,1575
+13-08-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,11,790
+20-08-2021,Dell XPS 13,Laptop,Bruce,Bangalore,5,2001
+20-08-2021,OnePlus Buds,Headphone,Bruce,Bangalore,55,75
+20-08-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+20-08-2021,HP Envy x360,Laptop,Bruce,Bangalore,3,1080
+20-08-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+20-08-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,10,790
+20-08-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+20-08-2021,OnePlus Buds,Headphone,Krish,Mumbai,46,75
+20-08-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,12,315
+20-08-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+20-08-2021,iPhone 11 Pro,Phone,Kate,Mumbai,2,1575
+20-08-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,6,790
+20-08-2021,Dell XPS 13,Laptop,Asif,Cochin,3,2001
+20-08-2021,OnePlus Buds,Headphone,Giana,Cochin,35,75
+20-08-2021,Apple AirPods Pro,Headphone,Giana,Cochin,11,315
+20-08-2021,HP Envy x360,Laptop,Asif,Cochin,2,1080
+20-08-2021,iPhone 11 Pro,Phone,Giana,Cochin,4,1575
+20-08-2021,OnePlus 8 Pro,Phone,Giana,Cochin,4,790
+20-08-2021,Dell XPS 13,Laptop,Aryan,Delhi,6,2001
+20-08-2021,OnePlus Buds,Headphone,Aryan,Delhi,46,75
+20-08-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,7,315
+20-08-2021,HP Envy x360,Laptop,Aryan,Delhi,5,1080
+20-08-2021,iPhone 11 Pro,Phone,Leila,Delhi,2,1575
+20-08-2021,OnePlus 8 Pro,Phone,Leila,Delhi,5,790
+20-08-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+20-08-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,47,75
+20-08-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,12,315
+20-08-2021,HP Envy x360,Laptop,Amar,Hyderabad,3,1080
+20-08-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,3,1575
+20-08-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,6,790
+27-08-2021,Dell XPS 13,Laptop,Bruce,Bangalore,4,2001
+27-08-2021,OnePlus Buds,Headphone,Bruce,Bangalore,44,75
+27-08-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,9,315
+27-08-2021,HP Envy x360,Laptop,Bruce,Bangalore,4,1080
+27-08-2021,iPhone 11 Pro,Phone,Tara,Bangalore,5,1575
+27-08-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,10,790
+27-08-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+27-08-2021,OnePlus Buds,Headphone,Krish,Mumbai,56,75
+27-08-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,9,315
+27-08-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+27-08-2021,iPhone 11 Pro,Phone,Kate,Mumbai,2,1575
+27-08-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,6,790
+27-08-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+27-08-2021,OnePlus Buds,Headphone,Giana,Cochin,35,75
+27-08-2021,Apple AirPods Pro,Headphone,Giana,Cochin,4,315
+27-08-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+27-08-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+27-08-2021,OnePlus 8 Pro,Phone,Giana,Cochin,9,790
+27-08-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+27-08-2021,OnePlus Buds,Headphone,Leila,Delhi,52,75
+27-08-2021,Apple AirPods Pro,Headphone,Leila,Delhi,9,315
+27-08-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+27-08-2021,iPhone 11 Pro,Phone,Leila,Delhi,5,1575
+27-08-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+27-08-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+27-08-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,58,75
+27-08-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,9,315
+27-08-2021,HP Envy x360,Laptop,Amar,Hyderabad,2,1080
+27-08-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,5,1575
+27-08-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,10,790
+03-09-2021,Dell XPS 13,Laptop,Bruce,Bangalore,5,2001
+03-09-2021,OnePlus Buds,Headphone,Bruce,Bangalore,33,75
+03-09-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+03-09-2021,HP Envy x360,Laptop,Bruce,Bangalore,5,1080
+03-09-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+03-09-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,9,790
+03-09-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+03-09-2021,OnePlus Buds,Headphone,Krish,Mumbai,46,75
+03-09-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,9,315
+03-09-2021,HP Envy x360,Laptop,Kate,Mumbai,2,1080
+03-09-2021,iPhone 11 Pro,Phone,Kate,Mumbai,2,1575
+03-09-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,5,790
+03-09-2021,Dell XPS 13,Laptop,Asif,Cochin,5,2001
+03-09-2021,OnePlus Buds,Headphone,Giana,Cochin,26,75
+03-09-2021,Apple AirPods Pro,Headphone,Giana,Cochin,8,315
+03-09-2021,HP Envy x360,Laptop,Asif,Cochin,3,1080
+03-09-2021,iPhone 11 Pro,Phone,Giana,Cochin,1,1575
+03-09-2021,OnePlus 8 Pro,Phone,Giana,Cochin,1,790
+03-09-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+03-09-2021,OnePlus Buds,Headphone,Leila,Delhi,58,75
+03-09-2021,Apple AirPods Pro,Headphone,Leila,Delhi,13,315
+03-09-2021,HP Envy x360,Laptop,Aryan,Delhi,5,1080
+03-09-2021,iPhone 11 Pro,Phone,Leila,Delhi,5,1575
+03-09-2021,OnePlus 8 Pro,Phone,Leila,Delhi,11,790
+03-09-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+03-09-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,32,75
+03-09-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,9,315
+03-09-2021,HP Envy x360,Laptop,Amar,Hyderabad,3,1080
+03-09-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,2,1575
+03-09-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,11,790
+10-09-2021,Dell XPS 13,Laptop,Bruce,Bangalore,4,2001
+10-09-2021,OnePlus Buds,Headphone,Bruce,Bangalore,32,75
+10-09-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+10-09-2021,HP Envy x360,Laptop,Bruce,Bangalore,2,1080
+10-09-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+10-09-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,9,790
+10-09-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+10-09-2021,OnePlus Buds,Headphone,Krish,Mumbai,59,75
+10-09-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,5,315
+10-09-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+10-09-2021,iPhone 11 Pro,Phone,Krish,Mumbai,3,1575
+10-09-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,8,790
+10-09-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+10-09-2021,OnePlus Buds,Headphone,Giana,Cochin,45,75
+10-09-2021,Apple AirPods Pro,Headphone,Giana,Cochin,6,315
+10-09-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+10-09-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+10-09-2021,OnePlus 8 Pro,Phone,Giana,Cochin,5,790
+10-09-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+10-09-2021,OnePlus Buds,Headphone,Leila,Delhi,31,75
+10-09-2021,Apple AirPods Pro,Headphone,Leila,Delhi,6,315
+10-09-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+10-09-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+10-09-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+10-09-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+10-09-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,39,75
+10-09-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,11,315
+10-09-2021,HP Envy x360,Laptop,Amar,Hyderabad,3,1080
+10-09-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,4,1575
+10-09-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,9,790
+17-09-2021,Dell XPS 13,Laptop,Bruce,Bangalore,3,2001
+17-09-2021,OnePlus Buds,Headphone,Bruce,Bangalore,57,75
+17-09-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,13,315
+17-09-2021,HP Envy x360,Laptop,Bruce,Bangalore,4,1080
+17-09-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+17-09-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,7,790
+17-09-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+17-09-2021,OnePlus Buds,Headphone,Krish,Mumbai,40,75
+17-09-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,13,315
+17-09-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+17-09-2021,iPhone 11 Pro,Phone,Krish,Mumbai,2,1575
+17-09-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,11,790
+17-09-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+17-09-2021,OnePlus Buds,Headphone,Giana,Cochin,26,75
+17-09-2021,Apple AirPods Pro,Headphone,Giana,Cochin,11,315
+17-09-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+17-09-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+17-09-2021,OnePlus 8 Pro,Phone,Giana,Cochin,6,790
+17-09-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+17-09-2021,OnePlus Buds,Headphone,Leila,Delhi,44,75
+17-09-2021,Apple AirPods Pro,Headphone,Leila,Delhi,11,315
+17-09-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+17-09-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+17-09-2021,OnePlus 8 Pro,Phone,Leila,Delhi,9,790
+17-09-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+17-09-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,49,75
+17-09-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,15,315
+17-09-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+17-09-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,4,1575
+17-09-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,5,790
+24-09-2021,Dell XPS 13,Laptop,Bruce,Bangalore,5,2001
+24-09-2021,OnePlus Buds,Headphone,Bruce,Bangalore,32,75
+24-09-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,10,315
+24-09-2021,HP Envy x360,Laptop,Bruce,Bangalore,3,1080
+24-09-2021,iPhone 11 Pro,Phone,Tara,Bangalore,2,1575
+24-09-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,5,790
+24-09-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+24-09-2021,OnePlus Buds,Headphone,Krish,Mumbai,37,75
+24-09-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,9,315
+24-09-2021,HP Envy x360,Laptop,Kate,Mumbai,2,1080
+24-09-2021,iPhone 11 Pro,Phone,Krish,Mumbai,2,1575
+24-09-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,7,790
+24-09-2021,Dell XPS 13,Laptop,Asif,Cochin,5,2001
+24-09-2021,OnePlus Buds,Headphone,Giana,Cochin,26,75
+24-09-2021,Apple AirPods Pro,Headphone,Giana,Cochin,5,315
+24-09-2021,HP Envy x360,Laptop,Asif,Cochin,6,1080
+24-09-2021,iPhone 11 Pro,Phone,Giana,Cochin,5,1575
+24-09-2021,OnePlus 8 Pro,Phone,Giana,Cochin,5,790
+24-09-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+24-09-2021,OnePlus Buds,Headphone,Leila,Delhi,31,75
+24-09-2021,Apple AirPods Pro,Headphone,Leila,Delhi,8,315
+24-09-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+24-09-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+24-09-2021,OnePlus 8 Pro,Phone,Leila,Delhi,11,790
+24-09-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+24-09-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,33,75
+24-09-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,6,315
+24-09-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+24-09-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,5,1575
+24-09-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,10,790
+01-10-2021,Dell XPS 13,Laptop,Bruce,Bangalore,5,2001
+01-10-2021,OnePlus Buds,Headphone,Bruce,Bangalore,34,75
+01-10-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,11,315
+01-10-2021,HP Envy x360,Laptop,Bruce,Bangalore,3,1080
+01-10-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+01-10-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,9,790
+01-10-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+01-10-2021,OnePlus Buds,Headphone,Krish,Mumbai,32,75
+01-10-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,14,315
+01-10-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+01-10-2021,iPhone 11 Pro,Phone,Krish,Mumbai,6,1575
+01-10-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,6,790
+01-10-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+01-10-2021,OnePlus Buds,Headphone,Giana,Cochin,26,75
+01-10-2021,Apple AirPods Pro,Headphone,Giana,Cochin,11,315
+01-10-2021,HP Envy x360,Laptop,Asif,Cochin,5,1080
+01-10-2021,iPhone 11 Pro,Phone,Giana,Cochin,5,1575
+01-10-2021,OnePlus 8 Pro,Phone,Giana,Cochin,11,790
+01-10-2021,Dell XPS 13,Laptop,Aryan,Delhi,6,2001
+01-10-2021,OnePlus Buds,Headphone,Leila,Delhi,33,75
+01-10-2021,Apple AirPods Pro,Headphone,Leila,Delhi,12,315
+01-10-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+01-10-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+01-10-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+01-10-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+01-10-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,44,75
+01-10-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,13,315
+01-10-2021,HP Envy x360,Laptop,Amar,Hyderabad,3,1080
+01-10-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,3,1575
+01-10-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,7,790
+08-10-2021,Dell XPS 13,Laptop,Bruce,Bangalore,6,2001
+08-10-2021,OnePlus Buds,Headphone,Bruce,Bangalore,43,75
+08-10-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,5,315
+08-10-2021,HP Envy x360,Laptop,Bruce,Bangalore,3,1080
+08-10-2021,iPhone 11 Pro,Phone,Tara,Bangalore,2,1575
+08-10-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,8,790
+08-10-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+08-10-2021,OnePlus Buds,Headphone,Krish,Mumbai,53,75
+08-10-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,10,315
+08-10-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+08-10-2021,iPhone 11 Pro,Phone,Krish,Mumbai,4,1575
+08-10-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,7,790
+08-10-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+08-10-2021,OnePlus Buds,Headphone,Giana,Cochin,35,75
+08-10-2021,Apple AirPods Pro,Headphone,Giana,Cochin,8,315
+08-10-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+08-10-2021,iPhone 11 Pro,Phone,Giana,Cochin,6,1575
+08-10-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+08-10-2021,Dell XPS 13,Laptop,Aryan,Delhi,6,2001
+08-10-2021,OnePlus Buds,Headphone,Leila,Delhi,52,75
+08-10-2021,Apple AirPods Pro,Headphone,Leila,Delhi,14,315
+08-10-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+08-10-2021,iPhone 11 Pro,Phone,Leila,Delhi,5,1575
+08-10-2021,OnePlus 8 Pro,Phone,Leila,Delhi,9,790
+08-10-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+08-10-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,58,75
+08-10-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,8,315
+08-10-2021,HP Envy x360,Laptop,Amar,Hyderabad,4,1080
+08-10-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,5,1575
+08-10-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,7,790
+15-10-2021,Dell XPS 13,Laptop,Bruce,Bangalore,5,2001
+15-10-2021,OnePlus Buds,Headphone,Bruce,Bangalore,36,75
+15-10-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,12,315
+15-10-2021,HP Envy x360,Laptop,Bruce,Bangalore,4,1080
+15-10-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+15-10-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,9,790
+15-10-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+15-10-2021,OnePlus Buds,Headphone,Krish,Mumbai,33,75
+15-10-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,10,315
+15-10-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+15-10-2021,iPhone 11 Pro,Phone,Krish,Mumbai,3,1575
+15-10-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,9,790
+15-10-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+15-10-2021,OnePlus Buds,Headphone,Giana,Cochin,26,75
+15-10-2021,Apple AirPods Pro,Headphone,Asif,Cochin,11,315
+15-10-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+15-10-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+15-10-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+15-10-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+15-10-2021,OnePlus Buds,Headphone,Leila,Delhi,41,75
+15-10-2021,Apple AirPods Pro,Headphone,Leila,Delhi,8,315
+15-10-2021,HP Envy x360,Laptop,Aryan,Delhi,5,1080
+15-10-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+15-10-2021,OnePlus 8 Pro,Phone,Leila,Delhi,7,790
+15-10-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+15-10-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,43,75
+15-10-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,8,315
+15-10-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+15-10-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,6,1575
+15-10-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,7,790
+22-10-2021,Dell XPS 13,Laptop,Bruce,Bangalore,5,2001
+22-10-2021,OnePlus Buds,Headphone,Bruce,Bangalore,32,75
+22-10-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,7,315
+22-10-2021,HP Envy x360,Laptop,Bruce,Bangalore,6,1080
+22-10-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+22-10-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,7,790
+22-10-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+22-10-2021,OnePlus Buds,Headphone,Krish,Mumbai,53,75
+22-10-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,14,315
+22-10-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+22-10-2021,iPhone 11 Pro,Phone,Krish,Mumbai,2,1575
+22-10-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,9,790
+22-10-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+22-10-2021,OnePlus Buds,Headphone,Asif,Cochin,23,75
+22-10-2021,Apple AirPods Pro,Headphone,Asif,Cochin,5,315
+22-10-2021,HP Envy x360,Laptop,Asif,Cochin,2,1080
+22-10-2021,iPhone 11 Pro,Phone,Giana,Cochin,2,1575
+22-10-2021,OnePlus 8 Pro,Phone,Giana,Cochin,9,790
+22-10-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+22-10-2021,OnePlus Buds,Headphone,Leila,Delhi,53,75
+22-10-2021,Apple AirPods Pro,Headphone,Leila,Delhi,12,315
+22-10-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+22-10-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+22-10-2021,OnePlus 8 Pro,Phone,Leila,Delhi,9,790
+22-10-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+22-10-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,53,75
+22-10-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,9,315
+22-10-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+22-10-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,2,1575
+22-10-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,7,790
+29-10-2021,Dell XPS 13,Laptop,Bruce,Bangalore,4,2001
+29-10-2021,OnePlus Buds,Headphone,Bruce,Bangalore,53,75
+29-10-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,13,315
+29-10-2021,HP Envy x360,Laptop,Bruce,Bangalore,3,1080
+29-10-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+29-10-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,10,790
+29-10-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+29-10-2021,OnePlus Buds,Headphone,Krish,Mumbai,55,75
+29-10-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+29-10-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+29-10-2021,iPhone 11 Pro,Phone,Krish,Mumbai,4,1575
+29-10-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,11,790
+29-10-2021,Dell XPS 13,Laptop,Asif,Cochin,3,2001
+29-10-2021,OnePlus Buds,Headphone,Asif,Cochin,35,75
+29-10-2021,Apple AirPods Pro,Headphone,Asif,Cochin,7,315
+29-10-2021,HP Envy x360,Laptop,Asif,Cochin,3,1080
+29-10-2021,iPhone 11 Pro,Phone,Giana,Cochin,5,1575
+29-10-2021,OnePlus 8 Pro,Phone,Giana,Cochin,10,790
+29-10-2021,Dell XPS 13,Laptop,Aryan,Delhi,4,2001
+29-10-2021,OnePlus Buds,Headphone,Leila,Delhi,51,75
+29-10-2021,Apple AirPods Pro,Headphone,Leila,Delhi,7,315
+29-10-2021,HP Envy x360,Laptop,Aryan,Delhi,5,1080
+29-10-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+29-10-2021,OnePlus 8 Pro,Phone,Leila,Delhi,9,790
+29-10-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+29-10-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,47,75
+29-10-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,5,315
+29-10-2021,HP Envy x360,Laptop,Amar,Hyderabad,2,1080
+29-10-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,3,1575
+29-10-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,7,790
+05-11-2021,Dell XPS 13,Laptop,Bruce,Bangalore,3,2001
+05-11-2021,OnePlus Buds,Headphone,Bruce,Bangalore,34,75
+05-11-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,8,315
+05-11-2021,HP Envy x360,Laptop,Bruce,Bangalore,3,1080
+05-11-2021,iPhone 11 Pro,Phone,Tara,Bangalore,5,1575
+05-11-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,10,790
+05-11-2021,Dell XPS 13,Laptop,Kate,Mumbai,4,2001
+05-11-2021,OnePlus Buds,Headphone,Krish,Mumbai,54,75
+05-11-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,13,315
+05-11-2021,HP Envy x360,Laptop,Kate,Mumbai,4,1080
+05-11-2021,iPhone 11 Pro,Phone,Kate,Mumbai,6,1575
+05-11-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,5,790
+05-11-2021,Dell XPS 13,Laptop,Asif,Cochin,3,2001
+05-11-2021,OnePlus Buds,Headphone,Asif,Cochin,31,75
+05-11-2021,Apple AirPods Pro,Headphone,Asif,Cochin,12,315
+05-11-2021,HP Envy x360,Laptop,Asif,Cochin,5,1080
+05-11-2021,iPhone 11 Pro,Phone,Giana,Cochin,2,1575
+05-11-2021,OnePlus 8 Pro,Phone,Giana,Cochin,11,790
+05-11-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+05-11-2021,OnePlus Buds,Headphone,Leila,Delhi,60,75
+05-11-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,6,315
+05-11-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+05-11-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+05-11-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+05-11-2021,Dell XPS 13,Laptop,Amar,Hyderabad,3,2001
+05-11-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,40,75
+05-11-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,7,315
+05-11-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+05-11-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,4,1575
+05-11-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,9,790
+12-11-2021,Dell XPS 13,Laptop,Bruce,Bangalore,3,2001
+12-11-2021,OnePlus Buds,Headphone,Bruce,Bangalore,55,75
+12-11-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,10,315
+12-11-2021,HP Envy x360,Laptop,Bruce,Bangalore,5,1080
+12-11-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+12-11-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,11,790
+12-11-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+12-11-2021,OnePlus Buds,Headphone,Krish,Mumbai,32,75
+12-11-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,8,315
+12-11-2021,HP Envy x360,Laptop,Kate,Mumbai,2,1080
+12-11-2021,iPhone 11 Pro,Phone,Kate,Mumbai,5,1575
+12-11-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,7,790
+12-11-2021,Dell XPS 13,Laptop,Asif,Cochin,3,2001
+12-11-2021,OnePlus Buds,Headphone,Asif,Cochin,26,75
+12-11-2021,Apple AirPods Pro,Headphone,Asif,Cochin,11,315
+12-11-2021,HP Envy x360,Laptop,Asif,Cochin,3,1080
+12-11-2021,iPhone 11 Pro,Phone,Giana,Cochin,4,1575
+12-11-2021,OnePlus 8 Pro,Phone,Giana,Cochin,6,790
+12-11-2021,Dell XPS 13,Laptop,Aryan,Delhi,4,2001
+12-11-2021,OnePlus Buds,Headphone,Aryan,Delhi,52,75
+12-11-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,6,315
+12-11-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+12-11-2021,iPhone 11 Pro,Phone,Leila,Delhi,2,1575
+12-11-2021,OnePlus 8 Pro,Phone,Leila,Delhi,7,790
+12-11-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+12-11-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,40,75
+12-11-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,7,315
+12-11-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+12-11-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,5,1575
+12-11-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,5,790
+19-11-2021,Dell XPS 13,Laptop,Bruce,Bangalore,5,2001
+19-11-2021,OnePlus Buds,Headphone,Bruce,Bangalore,55,75
+19-11-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,6,315
+19-11-2021,HP Envy x360,Laptop,Bruce,Bangalore,5,1080
+19-11-2021,iPhone 11 Pro,Phone,Tara,Bangalore,6,1575
+19-11-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,11,790
+19-11-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+19-11-2021,OnePlus Buds,Headphone,Krish,Mumbai,55,75
+19-11-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,12,315
+19-11-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+19-11-2021,iPhone 11 Pro,Phone,Kate,Mumbai,2,1575
+19-11-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,9,790
+19-11-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+19-11-2021,OnePlus Buds,Headphone,Asif,Cochin,24,75
+19-11-2021,Apple AirPods Pro,Headphone,Asif,Cochin,14,315
+19-11-2021,HP Envy x360,Laptop,Asif,Cochin,3,1080
+19-11-2021,iPhone 11 Pro,Phone,Giana,Cochin,6,1575
+19-11-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+19-11-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+19-11-2021,OnePlus Buds,Headphone,Aryan,Delhi,36,75
+19-11-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,12,315
+19-11-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+19-11-2021,iPhone 11 Pro,Phone,Leila,Delhi,3,1575
+19-11-2021,OnePlus 8 Pro,Phone,Leila,Delhi,6,790
+19-11-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+19-11-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,48,75
+19-11-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,5,315
+19-11-2021,HP Envy x360,Laptop,Amar,Hyderabad,3,1080
+19-11-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,6,1575
+19-11-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,10,790
+26-11-2021,Dell XPS 13,Laptop,Bruce,Bangalore,3,2001
+26-11-2021,OnePlus Buds,Headphone,Bruce,Bangalore,46,75
+26-11-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,10,315
+26-11-2021,HP Envy x360,Laptop,Bruce,Bangalore,3,1080
+26-11-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+26-11-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,9,790
+26-11-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+26-11-2021,OnePlus Buds,Headphone,Krish,Mumbai,65,75
+26-11-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,12,315
+26-11-2021,HP Envy x360,Laptop,Kate,Mumbai,3,1080
+26-11-2021,iPhone 11 Pro,Phone,Kate,Mumbai,2,1575
+26-11-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,9,790
+26-11-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+26-11-2021,OnePlus Buds,Headphone,Asif,Cochin,45,75
+26-11-2021,Apple AirPods Pro,Headphone,Asif,Cochin,11,315
+26-11-2021,HP Envy x360,Laptop,Asif,Cochin,6,1080
+26-11-2021,iPhone 11 Pro,Phone,Giana,Cochin,6,1575
+26-11-2021,OnePlus 8 Pro,Phone,Giana,Cochin,5,790
+26-11-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+26-11-2021,OnePlus Buds,Headphone,Aryan,Delhi,31,75
+26-11-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,8,315
+26-11-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+26-11-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+26-11-2021,OnePlus 8 Pro,Phone,Leila,Delhi,11,790
+26-11-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+26-11-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,48,75
+26-11-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,11,315
+26-11-2021,HP Envy x360,Laptop,Amar,Hyderabad,2,1080
+26-11-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,4,1575
+26-11-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,10,790
+03-12-2021,Dell XPS 13,Laptop,Bruce,Bangalore,3,2001
+03-12-2021,OnePlus Buds,Headphone,Bruce,Bangalore,38,75
+03-12-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,13,315
+03-12-2021,HP Envy x360,Laptop,Bruce,Bangalore,5,1080
+03-12-2021,iPhone 11 Pro,Phone,Tara,Bangalore,4,1575
+03-12-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,10,790
+03-12-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+03-12-2021,OnePlus Buds,Headphone,Krish,Mumbai,66,75
+03-12-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,11,315
+03-12-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+03-12-2021,iPhone 11 Pro,Phone,Kate,Mumbai,4,1575
+03-12-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,5,790
+03-12-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+03-12-2021,OnePlus Buds,Headphone,Asif,Cochin,25,75
+03-12-2021,Apple AirPods Pro,Headphone,Asif,Cochin,11,315
+03-12-2021,HP Envy x360,Laptop,Asif,Cochin,4,1080
+03-12-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+03-12-2021,OnePlus 8 Pro,Phone,Giana,Cochin,8,790
+03-12-2021,Dell XPS 13,Laptop,Aryan,Delhi,6,2001
+03-12-2021,OnePlus Buds,Headphone,Aryan,Delhi,53,75
+03-12-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,5,315
+03-12-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+03-12-2021,iPhone 11 Pro,Phone,Leila,Delhi,4,1575
+03-12-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+03-12-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+03-12-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,31,75
+03-12-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,5,315
+03-12-2021,HP Envy x360,Laptop,Amar,Hyderabad,2,1080
+03-12-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,5,1575
+03-12-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,11,790
+10-12-2021,Dell XPS 13,Laptop,Bruce,Bangalore,6,2001
+10-12-2021,OnePlus Buds,Headphone,Bruce,Bangalore,57,75
+10-12-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,10,315
+10-12-2021,HP Envy x360,Laptop,Bruce,Bangalore,5,1080
+10-12-2021,iPhone 11 Pro,Phone,Tara,Bangalore,5,1575
+10-12-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,8,790
+10-12-2021,Dell XPS 13,Laptop,Kate,Mumbai,5,2001
+10-12-2021,OnePlus Buds,Headphone,Krish,Mumbai,67,75
+10-12-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,23,315
+10-12-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+10-12-2021,iPhone 11 Pro,Phone,Kate,Mumbai,6,1575
+10-12-2021,OnePlus 8 Pro,Phone,Kate,Mumbai,8,790
+10-12-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+10-12-2021,OnePlus Buds,Headphone,Asif,Cochin,41,75
+10-12-2021,Apple AirPods Pro,Headphone,Asif,Cochin,5,315
+10-12-2021,HP Envy x360,Laptop,Asif,Cochin,6,1080
+10-12-2021,iPhone 11 Pro,Phone,Giana,Cochin,4,1575
+10-12-2021,OnePlus 8 Pro,Phone,Giana,Cochin,5,790
+10-12-2021,Dell XPS 13,Laptop,Aryan,Delhi,6,2001
+10-12-2021,OnePlus Buds,Headphone,Aryan,Delhi,50,75
+10-12-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,5,315
+10-12-2021,HP Envy x360,Laptop,Aryan,Delhi,4,1080
+10-12-2021,iPhone 11 Pro,Phone,Leila,Delhi,2,1575
+10-12-2021,OnePlus 8 Pro,Phone,Leila,Delhi,8,790
+10-12-2021,Dell XPS 13,Laptop,Amar,Hyderabad,4,2001
+10-12-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,55,75
+10-12-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,10,315
+10-12-2021,HP Envy x360,Laptop,Amar,Hyderabad,3,1080
+10-12-2021,iPhone 11 Pro,Phone,Amar,Hyderabad,5,1575
+10-12-2021,OnePlus 8 Pro,Phone,Amar,Hyderabad,9,790
+17-12-2021,Dell XPS 13,Laptop,Bruce,Bangalore,6,2001
+17-12-2021,OnePlus Buds,Headphone,Bruce,Bangalore,47,75
+17-12-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,14,315
+17-12-2021,HP Envy x360,Laptop,Bruce,Bangalore,5,1080
+17-12-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+17-12-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,10,790
+17-12-2021,Dell XPS 13,Laptop,Kate,Mumbai,6,2001
+17-12-2021,OnePlus Buds,Headphone,Krish,Mumbai,66,75
+17-12-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,2,315
+17-12-2021,HP Envy x360,Laptop,Kate,Mumbai,4,1080
+17-12-2021,iPhone 11 Pro,Phone,Krish,Mumbai,4,1575
+17-12-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,5,790
+17-12-2021,Dell XPS 13,Laptop,Asif,Cochin,3,2001
+17-12-2021,OnePlus Buds,Headphone,Asif,Cochin,36,75
+17-12-2021,Apple AirPods Pro,Headphone,Asif,Cochin,11,315
+17-12-2021,HP Envy x360,Laptop,Asif,Cochin,6,1080
+17-12-2021,iPhone 11 Pro,Phone,Giana,Cochin,5,1575
+17-12-2021,OnePlus 8 Pro,Phone,Giana,Cochin,11,790
+17-12-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+17-12-2021,OnePlus Buds,Headphone,Aryan,Delhi,58,75
+17-12-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,9,315
+17-12-2021,HP Envy x360,Laptop,Aryan,Delhi,6,1080
+17-12-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+17-12-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+17-12-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+17-12-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,36,75
+17-12-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,9,315
+17-12-2021,HP Envy x360,Laptop,Amar,Hyderabad,5,1080
+17-12-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,6,1575
+17-12-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,6,790
+24-12-2021,Dell XPS 13,Laptop,Bruce,Bangalore,3,2001
+24-12-2021,OnePlus Buds,Headphone,Bruce,Bangalore,60,75
+24-12-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,14,315
+24-12-2021,HP Envy x360,Laptop,Bruce,Bangalore,6,1080
+24-12-2021,iPhone 11 Pro,Phone,Tara,Bangalore,2,1575
+24-12-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,9,790
+24-12-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+24-12-2021,OnePlus Buds,Headphone,Krish,Mumbai,66,75
+24-12-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+24-12-2021,HP Envy x360,Laptop,Kate,Mumbai,6,1080
+24-12-2021,iPhone 11 Pro,Phone,Krish,Mumbai,4,1575
+24-12-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,6,790
+24-12-2021,Dell XPS 13,Laptop,Asif,Cochin,4,2001
+24-12-2021,OnePlus Buds,Headphone,Giana,Cochin,31,75
+24-12-2021,Apple AirPods Pro,Headphone,Giana,Cochin,5,315
+24-12-2021,HP Envy x360,Laptop,Asif,Cochin,5,1080
+24-12-2021,iPhone 11 Pro,Phone,Giana,Cochin,4,1575
+24-12-2021,OnePlus 8 Pro,Phone,Giana,Cochin,5,790
+24-12-2021,Dell XPS 13,Laptop,Aryan,Delhi,3,2001
+24-12-2021,OnePlus Buds,Headphone,Aryan,Delhi,52,75
+24-12-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,8,315
+24-12-2021,HP Envy x360,Laptop,Aryan,Delhi,2,1080
+24-12-2021,iPhone 11 Pro,Phone,Leila,Delhi,3,1575
+24-12-2021,OnePlus 8 Pro,Phone,Leila,Delhi,5,790
+24-12-2021,Dell XPS 13,Laptop,Amar,Hyderabad,5,2001
+24-12-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,34,75
+24-12-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,10,315
+24-12-2021,HP Envy x360,Laptop,Amar,Hyderabad,6,1080
+24-12-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,6,1575
+24-12-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,5,790
+31-12-2021,Dell XPS 13,Laptop,Bruce,Bangalore,6,2001
+31-12-2021,OnePlus Buds,Headphone,Bruce,Bangalore,45,75
+31-12-2021,Apple AirPods Pro,Headphone,Bruce,Bangalore,11,315
+31-12-2021,HP Envy x360,Laptop,Bruce,Bangalore,3,1080
+31-12-2021,iPhone 11 Pro,Phone,Tara,Bangalore,3,1575
+31-12-2021,OnePlus 8 Pro,Phone,Tara,Bangalore,5,790
+31-12-2021,Dell XPS 13,Laptop,Kate,Mumbai,3,2001
+31-12-2021,OnePlus Buds,Headphone,Krish,Mumbai,44,75
+31-12-2021,Apple AirPods Pro,Headphone,Krish,Mumbai,15,315
+31-12-2021,HP Envy x360,Laptop,Kate,Mumbai,5,1080
+31-12-2021,iPhone 11 Pro,Phone,Krish,Mumbai,4,1575
+31-12-2021,OnePlus 8 Pro,Phone,Krish,Mumbai,9,790
+31-12-2021,Dell XPS 13,Laptop,Asif,Cochin,6,2001
+31-12-2021,OnePlus Buds,Headphone,Giana,Cochin,23,75
+31-12-2021,Apple AirPods Pro,Headphone,Giana,Cochin,8,315
+31-12-2021,HP Envy x360,Laptop,Asif,Cochin,3,1080
+31-12-2021,iPhone 11 Pro,Phone,Giana,Cochin,3,1575
+31-12-2021,OnePlus 8 Pro,Phone,Giana,Cochin,9,790
+31-12-2021,Dell XPS 13,Laptop,Aryan,Delhi,5,2001
+31-12-2021,OnePlus Buds,Headphone,Aryan,Delhi,51,75
+31-12-2021,Apple AirPods Pro,Headphone,Aryan,Delhi,7,315
+31-12-2021,HP Envy x360,Laptop,Aryan,Delhi,5,1080
+31-12-2021,iPhone 11 Pro,Phone,Leila,Delhi,6,1575
+31-12-2021,OnePlus 8 Pro,Phone,Leila,Delhi,10,790
+31-12-2021,Dell XPS 13,Laptop,Amar,Hyderabad,6,2001
+31-12-2021,OnePlus Buds,Headphone,Laxmi,Hyderabad,59,75
+31-12-2021,Apple AirPods Pro,Headphone,Laxmi,Hyderabad,11,315
+31-12-2021,HP Envy x360,Laptop,Amar,Hyderabad,2,1080
+31-12-2021,iPhone 11 Pro,Phone,Laxmi,Hyderabad,4,1575
+31-12-2021,OnePlus 8 Pro,Phone,Laxmi,Hyderabad,10,790
