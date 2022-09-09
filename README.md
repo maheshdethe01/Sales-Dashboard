@@ -1,4 +1,51 @@
-# Sales-Dashboard
+# Sales Analysis 
+
+## Objective of the Analysis
+1.
+2.
+3.
+
+## About the data
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+## Important Variables
+1.
+2.
+3.
+4.
+
+## Analysis.
+1.
+2.
+3.
+4.
+5.
+
+## Functionality of Dashboard 
+1.
+2.
+3.
+4.
+5.
+
+## Insights
+1.
+2.
+3.
+4.
+5.
+
+## Recommedations
+1.
+2.
+3.
+
 A data visualization of last year sales of Technical devices like headphones,laptops,phone with the help of tableau.
 ![image](https://user-images.githubusercontent.com/106676849/187889858-948a8b57-a514-4fc4-9d3c-bf07c7cc173d.png)
 ![image](https://user-images.githubusercontent.com/106676849/187889938-b7d3a535-a4c2-4989-a9d9-3900ae1db40d.png)
