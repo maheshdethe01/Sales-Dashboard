@@ -1,4 +1,4 @@
-# Sales Analysis 
+# Sales Dashboard
 
 ## Objective of the Analysis
 1.
