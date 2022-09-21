@@ -1,5 +1,6 @@
 # Sales Dashboard
 
+## Tech Stack - Tableau
 ## Objective of the Analysis
 1. To analyse the past sales.
 2. To see how the Sales varied in last year, so we can improve our performance.
