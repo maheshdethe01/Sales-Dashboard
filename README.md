@@ -1,6 +1,15 @@
-# Sales Dashboard
+<div align = "center" >
+  
+  # Sales Dashboard
+  
+</div>
+<div align = "center" >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJKOYPero_YA83zl_v73PRUllt-hTUQG-8w&usqp=CAU" width="400" height = "100" />
 
-## Tech Stack - Tableau
+
+## Tech Stack - Python, Excel, Tableau.
+</div>
+
 ## Objective of the Analysis
 1. To analyse the past sales.
 2. To see how the Sales varied in last year, so we can improve our performance.
