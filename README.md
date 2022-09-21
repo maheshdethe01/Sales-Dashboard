@@ -1,24 +1,22 @@
 # Sales Dashboard
 
 ## Objective of the Analysis
-1.
-2.
-3.
+1. To analyse the past sales.
+2. To see how the Sales varied in last year, so we can improve our performance.
+3. To find the insights which will help in our company growth.
+
 
 ## About the data
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. City name (where the company stores reside)
+2. Category (category of product)
+3. Sales Representive
+4. Month of the year
+5. Product (Laptop,headphone ,phone)
+6. No. of units Sold
+7. Price(Price of each product)
 
 ## Important Variables
-1.
-2.
-3.
-4.
+   All of the variables was essential for the analysis.
 
 ## Analysis.
 1.
@@ -28,7 +26,8 @@
 5.
 
 ## Functionality of Dashboard 
-1.
+### An end to end dashboard which sales 
+1. 
 2.
 3.
 4.
