@@ -18,13 +18,6 @@
 ## Important Variables
    All of the variables was essential for the analysis.
 
-## Analysis.
-1.
-2.
-3.
-4.
-5.
-
 ## Functionality of Dashboard 
 ### An end to end dashboard which sales 
 1. 
