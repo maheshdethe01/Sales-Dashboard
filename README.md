@@ -47,3 +47,8 @@ A data visualization of last year sales of Technical devices like headphones,lap
 ![image](https://user-images.githubusercontent.com/106676849/187890356-483fd631-3fc4-45c1-b11e-e1a20a3e4534.png)
 ![image](https://user-images.githubusercontent.com/106676849/187890963-bdab9270-cbe4-4eba-929c-b651a298d97e.png)
 
+## Challenges & Learnings.
+1.
+2.
+3.
+
