@@ -29,24 +29,14 @@
    All of the variables was essential for the analysis.
 
 ## Functionality of Dashboard 
-### An end to end dashboard which sales 
-1. 
-2.
-3.
-4.
-5.
-
-## Insights
-1.
-2.
-3.
-4.
-5.
-
-## Recommedations
-1.
-2.
-3.
+### An end to end dashboard which includes
+1. Total no.of products sold
+2. Sales by 
+  a)Product
+  b)Category
+  c)City
+  d)Month
+  e)Product Type
 
 A data visualization of last year sales of Technical devices like headphones,laptops,phone with the help of tableau.
 ![image](https://user-images.githubusercontent.com/106676849/187889858-948a8b57-a514-4fc4-9d3c-bf07c7cc173d.png)
@@ -56,9 +46,4 @@ A data visualization of last year sales of Technical devices like headphones,lap
 ![image](https://user-images.githubusercontent.com/106676849/187890314-b551de4a-d67c-4916-b04a-c19dff106e82.png)
 ![image](https://user-images.githubusercontent.com/106676849/187890356-483fd631-3fc4-45c1-b11e-e1a20a3e4534.png)
 ![image](https://user-images.githubusercontent.com/106676849/187890963-bdab9270-cbe4-4eba-929c-b651a298d97e.png)
-
-## Challenges & Learnings.
-1.
-2.
-3.
 
