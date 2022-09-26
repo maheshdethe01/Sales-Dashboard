@@ -34,12 +34,19 @@
 ## Functionality of Dashboard 
 ### An end to end dashboard which includes
 1. Total no.of products sold
-2. Sales by 
+2. Sales by
+  <p>
   a)Product
+  
   b)Category
+  
   c)City
+  
   d)Month
+  
   e)Product Type
+  
+  </p>
 
 ![image](https://user-images.githubusercontent.com/106676849/187890963-bdab9270-cbe4-4eba-929c-b651a298d97e.png)
 
